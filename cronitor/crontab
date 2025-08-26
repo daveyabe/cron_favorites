@@ -1,0 +1,1 @@
+* * * * * curl -m 5 --retry 5 https://cronitor.link/p/RANDOMSTRING/dashubnt-VM-heartbeat
